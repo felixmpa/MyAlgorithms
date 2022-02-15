@@ -7,8 +7,9 @@ namespace MyAlgorithms
         static void Main(string[] args)
         {
             //Sorting
-            new MyAlgorithms.Sorting.Client().Main();
+            //new MyAlgorithms.Sorting.Client().Main();
 
+            new MyAlgorithms.AlgoExpert.Client().Main();
         }
     }
 }
