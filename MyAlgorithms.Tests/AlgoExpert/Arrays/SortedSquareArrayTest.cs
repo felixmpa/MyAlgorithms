@@ -1,10 +1,10 @@
-﻿using MyAlgorithms.AlgoExpert;
+﻿using MyAlgorithms.AlgoExpert.Arrays;
 using System;
 using System.Collections.Generic;
 using System.Text;
 using Xunit;
 
-namespace MyAlgorithms.Tests.AlgoExpert
+namespace MyAlgorithms.Tests.AlgoExpert.Arrays
 {
     public class SortedSquareArrayTest
     {

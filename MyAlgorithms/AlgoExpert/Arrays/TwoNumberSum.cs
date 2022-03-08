@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace MyAlgorithms.AlgoExpert
+namespace MyAlgorithms.AlgoExpert.Arrays
 {
 	public static class TwoNumberSum
 	{

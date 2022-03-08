@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 using Xunit;
-using MyAlgorithms.AlgoExpert;
+using MyAlgorithms.AlgoExpert.Arrays;
 
-namespace MyAlgorithms.Tests.AlgoExpert
+namespace MyAlgorithms.Tests.AlgoExpert.Arrays
 {
     public class IsValidSubsequenceTest
     {

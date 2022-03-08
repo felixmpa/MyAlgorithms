@@ -23,4 +23,8 @@
     <ProjectReference Include="..\MyAlgorithms\MyAlgorithms.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="AlgoExpert\BinaryTrees\" />
+  </ItemGroup>
+
 </Project>
