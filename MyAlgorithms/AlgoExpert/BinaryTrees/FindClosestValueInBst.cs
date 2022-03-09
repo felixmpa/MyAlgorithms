@@ -67,8 +67,5 @@ namespace MyAlgorithms.AlgoExpert.BinaryTrees
                 return closest;
             }
         }
-
-
-
     }
 }
