@@ -131,7 +131,9 @@ namespace MyAlgorithms
 
             //int sum = new MyAlgorithms.AlgoExpert.BinaryTrees.SumOfLeftLeaves().Method2(root);
 
-            /*int[] array = new MyAlgorithms.AlgoExpert.Arrays.TheNextNumSecuencial().Method1(new int[3] {1,2,2} );
+            /*
+            
+            int[] array = new MyAlgorithms.AlgoExpert.Arrays.TheNextNumSecuencial().Method1(new int[3] {1,2,2} );
 
             array = new MyAlgorithms.AlgoExpert.Arrays.TheNextNumSecuencial().Method1(new int[5] { 0,1,2,3,0 });
 
@@ -139,8 +141,11 @@ namespace MyAlgorithms
 
             */
 
+            //string ok = new MyAlgorithms.AlgoExpert.String.CroppingText().Method1("Coding a Hellow Word", 5);
+            string ok = new MyAlgorithms.AlgoExpert.String.CroppingText().Method2("Hola Mundo Estoy Squi", 5);
+            string ok2 = new MyAlgorithms.AlgoExpert.String.CroppingText().Method2("Hola Mundo Estoy Squi", 12);
 
-
+            
         }
     }
 }
